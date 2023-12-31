@@ -39,7 +39,7 @@ Onto the next one...
 ### Continued development
 I will be infusing Javascript frameworks into this project to make it responsive and add it to my final website piece
 
-###Useful resources
+### Useful resources
 -https://developer.mozilla.org/
 -Google
 -Youtube
@@ -51,4 +51,5 @@ NAME: AKAMBONG MATTHEW ABUGDAG
 - Frontend Mentor - (https://www.frontendmentor.io/profile/yourusername)
 - Twitter - (https://www.twitter.com/AbugdagMatthew)
 - LinkedIn - (https://www.linkedin.com/in/matthew-abugdag-akambong-2b7567177/)
+- Instagram - username - _i_am_jedidiah
 
